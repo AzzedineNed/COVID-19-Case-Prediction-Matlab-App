@@ -63,4 +63,4 @@ Screenshot 6
 [Nedjai_Azzedine-Master_Thesis.pdf](https://github.com/AzzedineNed/COVID-19-Case-Prediction-Desktop-App/files/12708744/Nedjai_Azzedine-Master_Thesis.pdf)
 
 
-Thank you for your interest inproject.
+Thank you for your interest in the project.
