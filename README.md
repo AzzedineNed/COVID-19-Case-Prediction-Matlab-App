@@ -30,6 +30,7 @@ Explore data trends and predictions through interactive charts and visualization
 # Screenshots:
 
 Screenshot 1
+
 ![screenshot1](https://github.com/AzzedineNed/COVID-19-Case-Prediction-Desktop-App/assets/121098331/19c98e7b-9513-473e-a52d-27fe7330a2b2)
 
 Screenshot 2
@@ -43,6 +44,7 @@ Screenshot 3
 
 
 Screenshot 4
+
 ![screenshot4](https://github.com/AzzedineNed/COVID-19-Case-Prediction-Desktop-App/assets/121098331/9a166eee-1434-489c-8ef9-d039e30d0c60)
 
 
