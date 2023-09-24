@@ -33,10 +33,12 @@ Screenshot 1
 ![screenshot1](https://github.com/AzzedineNed/COVID-19-Case-Prediction-Desktop-App/assets/121098331/19c98e7b-9513-473e-a52d-27fe7330a2b2)
 
 Screenshot 2
+
 ![screenshot6](https://github.com/AzzedineNed/COVID-19-Case-Prediction-Desktop-App/assets/121098331/23c7a403-ee08-4a5b-b2e7-6dcb3a6470cf)
 
 
 Screenshot 3
+
 ![screenshot5](https://github.com/AzzedineNed/COVID-19-Case-Prediction-Desktop-App/assets/121098331/f78aef53-4b20-46cc-ac6f-0fdebbe13e4b)
 
 
@@ -45,6 +47,7 @@ Screenshot 4
 
 
 Screenshot 5
+
 ![screenshot3](https://github.com/AzzedineNed/COVID-19-Case-Prediction-Desktop-App/assets/121098331/3710298f-0b3c-457c-8bc3-2519ea4022f0)
 
 
@@ -55,8 +58,6 @@ Screenshot 6
 
 
 # Docs:
-For those new to the project, visit our documentation for comprehensive instructions on setting up the development environment and running the COVID-19 Case Prediction Desktop App using MATLAB.
-
 [Nedjai_Azzedine-Master_Thesis.pdf](https://github.com/AzzedineNed/COVID-19-Case-Prediction-Desktop-App/files/12708744/Nedjai_Azzedine-Master_Thesis.pdf)
 
 
