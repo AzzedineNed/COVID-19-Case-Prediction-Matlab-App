@@ -1,4 +1,4 @@
-# COVID-19-Case-Prediction-Desktop-App
+# COVID-19-Case-Prediction-App
 Welcome to the "COVID-19 Case Prediction Desktop App" repository! This project is dedicated to the development of a powerful desktop application for predicting COVID-19 cases using advanced machine learning techniques. Leveraging the capabilities of MATLAB, including transfer learning with the ResNet-50 model, the Deep Learning Toolbox, and the MATLAB App Designer, this application empowers users with the ability to make informed decisions based on data-driven predictions.
 
 # Key Features:
