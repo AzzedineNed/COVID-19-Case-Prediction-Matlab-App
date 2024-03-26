@@ -1,7 +1,7 @@
 % Clear workspace
 clear; close all; clc;
  
-% Images Datapath – Please modify your path accordingly 
+% Images Datapath â€“ Please modify your path accordingly 
 datapath='dataset';
  
 % Image Datastore
@@ -74,7 +74,7 @@ for fold_idx=1:num_folds
     imdsTest.ReadFcn = @(filename)preprocess_Xray(filename);
     
     % Training Options, we choose a small mini-batch size due to limited images 
-    options = trainingOptions('da',...
+    options = trainingOptions('adam',...
         'MaxEpochs',30,'MiniBatchSize',8,...
         'Shuffle','every-epoch', ...
         'InitialLearnRate',1e-4, ...
